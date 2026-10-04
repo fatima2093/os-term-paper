@@ -1,0 +1,5 @@
+policy,faults_before,faults_after,hit_before,hit_after
+FIFO,92,454,81.6,9.2
+LRU,92,452,81.6,9.6
+Optimal,40,348,92.0,30.4
+Learned,100,454,80.0,9.2
